@@ -43,6 +43,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
+HERE IS THE LINK TO THE ASSIGNMENT https://1drv.ms/w/c/97b7321a48d4eabb/EQY2PSefVY1AmkirCb3Cb5gBZ3BfFs9Yn3uQlWxIK_GBrQ?e=ixPPKG
 
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
